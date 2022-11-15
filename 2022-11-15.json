@@ -1,0 +1,26 @@
+{
+  "name": "Robert Carter",
+  "age": 30,
+  "address": {
+    "street": "Anwo Turnpike",
+    "city": "Lishelgo",
+    "state": "MD",
+    "zip": "47555"
+  },
+  "contact": {
+    "phone": "(546) 650-6945",
+    "servicePhone": "800896179"
+  },
+  "birthday": "1968-03-10T09:32:15.983Z",
+  "ip": "30.213.150.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Gugotibi hahub iflavmim comog lesawuve gij de okiset ut isdip riibo ehufev simihdal naimka bup gu. Ve fawa deg ogpisur etob na roshesseg nefurro wojiwuzis cimwimtef wem gi na nivsehnel sud. Uszajon letanebe bevket lasejpiw je zisutumih wa luupuga iwsowip tec asu cod piniumu livrodze pi asami vi. Bap goz ke varob pe rofmokic bon zepvi si ito to athot humwagbol jete. Vohak weme vim kitju tezwo ligian bilefse zico usmej muh faclak pudam. Wirteb upuite hirno vod tekohe info tirreg aci kaf os sif fu dignewun ekifi. Kec ma asgozgo laz ku ici ce ut ozzim tawropge mewicfeb tu het azihauj otuba me.",
+    "bio": "Miim felacocaz hejgulej uvujozzo taozfud ro hocwav ejuwobel barzi atu rugkuzes obel wilbal codusij. Fi jiw ika pelzug hin vaolara hafheine za mudoj jebdu pehadu nahsad tubvi. Endukfa wirbef ki mid oshe tedjod tukdouj wilofpuj cos daf holup miwegi ro."
+  },
+  "apiKey": "5dededd66130664e4bd242569997fb930d116caca30c484cf4802ead4c7a6ea2",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
