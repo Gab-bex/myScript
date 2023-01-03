@@ -1,0 +1,26 @@
+{
+  "name": "Lola Owen",
+  "age": 44,
+  "address": {
+    "street": "Kiivo Turnpike",
+    "city": "Vucupi",
+    "state": "WI",
+    "zip": "60445"
+  },
+  "contact": {
+    "phone": "(219) 309-2173",
+    "servicePhone": "800599519"
+  },
+  "birthday": "1966-12-10T11:21:05.747Z",
+  "ip": "94.5.243.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Lir kussepred atu iwujog hisifgel mumug gu akupo fowjetmaj ne kauc herociz olete. Puvugura ruudico jori una ceidu voej owa kobdom en eru zefne hi lip danzu zomuli. Lahufka lukba coihjaz epgigvak za ceg laavu paom gahal midir we munaj riceru hit um lek.",
+    "bio": "Hoh lof uj azuozmi vuvege gahudrib navegeku te lebwas iczu un gagep hibudsas mobkaboc nabfelgop bamun mavnus be. Nokawwe fovet veder vi rocedvi kihrugvit remizuzot keodarul vi pizin apa vorgib ufetaiba po kuumo rolmog so ledoheg. Buj mawaow lahhak tuseok ecsud pagenusi vinune uraja diopoja vezwabim coda pud. Dumgadrel aka muip pado re suv lajepori modzor dulawcep cowvab nimwesem sasiuho rirowged. Lu volci jutzu lotzumja gojavo zufcuwja rig hetre ziho duwwiko pochek ijacoig suigoit ti. Ped japgu rugkilso es in zipal fuv ogavo fugkoko toedovac kugme cewitto donrur. Defa ut vovi jegnuh huva cog zolam wa ta wuzimon awaofozo giddeb."
+  },
+  "apiKey": "691e0acfc9911becd8bc8aa4c7872170603fdeac67c57566d87379fb70510431",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
