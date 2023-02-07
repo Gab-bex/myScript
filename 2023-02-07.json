@@ -1,0 +1,26 @@
+{
+  "name": "Iva Snyder",
+  "age": 25,
+  "address": {
+    "street": "Webi Circle",
+    "city": "Wietatal",
+    "state": "NE",
+    "zip": "21440"
+  },
+  "contact": {
+    "phone": "(829) 522-5369",
+    "servicePhone": "800192453"
+  },
+  "birthday": "1981-12-30T07:25:29.352Z",
+  "ip": "120.51.183.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Fembif oc togo dija mi nej evaikeir bap lasaj ce jibki ralal ulius sih gu tintegegi hude. Dudibi gasovza egweal vowaco up fambo fujpazze hommag dip rif zucovu caezuoji wuvopob wa rotwuvu meacuda ake iw. Koz robwus museco nahdajo ihkiw acosuzud womjubes valroce pi pek mat vuhevi ogufeuj ibgimi.",
+    "bio": "Bi li mokufic pitwid kazvom zuhmil hun ifsomlu gewnal ocu ketag jecum wo uvacico fa vebulil. Zu eprere vi jemmowbem mun kut ce ca wi toso egto hakuziw cot fewviwwij ja. Kah affuztag kiligage be zubgi ripe dimo jieda cajsosgu kefofsok apa ahu ihiacgu aboupo mo abijaki pudrireb leka."
+  },
+  "apiKey": "349e76fabadfd4cd661a8d1e9fca1bfd2bb2571530250df78edc362d01b427fe",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
