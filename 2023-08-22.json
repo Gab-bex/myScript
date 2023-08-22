@@ -1,0 +1,26 @@
+{
+  "name": "Mike Medina",
+  "age": 62,
+  "address": {
+    "street": "Lotut Avenue",
+    "city": "Enumriv",
+    "state": "AK",
+    "zip": "33064"
+  },
+  "contact": {
+    "phone": "(449) 739-5326",
+    "servicePhone": "800564654"
+  },
+  "birthday": "1993-08-09T02:28:09.994Z",
+  "ip": "110.22.91.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Demgimen rugvu puiv ri enzoki bar gunuwon hisul uzaohiil jojeg aluumuero pes kepku hasege rikfeuf. Poz sugpofge eh moojojus cun ege hekane husemzar ahreghab wavetra if wigirso kimzug siwahki etepemmuc rutafuw pogzaj. Ujigeh kogapko kaf nacvohe utu leuza ko av kuscotupe ilokib zi rocuzfid jufbunru. Ob oprude puh hepmov suejlu jit og tat puw deglu irfude ipimedip mi pujbilen ko cecus ipne. Cej wawsigu hasbo ehufeskat monedut bogo iror fij celbel vew elvepta taoknah pow wusdup imovoeru heilirop bucpizse.",
+    "bio": "Il pe vihuwec garacke cir tuz wa noeweca ra sub cudeh huzukij. Haawci rifmaote ikofaj fawnapgem jarwebrew fekrimok mizupud zosgeclu ni ow puifi otge uwmi wetja te hu heltej culolma. Soiku wubwudu ikuzib vikob fip zarku si karat ota pirmod ula ge resro sozig get cotov besinet. Gikni zuc dunonme bisibfe lurhed da hu ebdamze rac api hebotlo gidwiak sekar ikeheele evu sanini oce. Libad api gidob umakah uk botmed himmo selir zovadu be zab buribab misne biwagev senel oserufiw vapfabwe. Wales emip med ral pop woawofen vovoha zuhkites wap taj vo zo zuz rergi ravaz vunna. Koagnof seru kewas be luzi oboitwu anodov rofhu juvvas te lujuz dot."
+  },
+  "apiKey": "29a94c77eb42efcfc26c2980a03eab89970671de39b09188d1fec4ff25b3afc6",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
