@@ -1,0 +1,26 @@
+{
+  "name": "Marie Moody",
+  "age": 24,
+  "address": {
+    "street": "Irahin Manor",
+    "city": "Bukimru",
+    "state": "AK",
+    "zip": "94576"
+  },
+  "contact": {
+    "phone": "(821) 491-2622",
+    "servicePhone": "800555949"
+  },
+  "birthday": "1971-06-23T08:52:15.604Z",
+  "ip": "23.226.177.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuzu kor fo jov ukenowu laza illeg ja morjat virit bodehuni iv ru. Tulier wa vunagfef uti awtucer ragi wij tewmap sacuc jabik upefet coze. Ezir ezo nohzugoce hibcakuc kaikadi ijzo la ucage huda vu pu dizonap rukga ajpiz dopap jahge tu.",
+    "bio": "Osa et ponohu lon colokasa ne acujovsi muv rabaiza pijon lomebo buvdeme muih bowal. Sirfa insi nat hegzucozi ine wakehojo zifudto pajas alti teesvo iwtophew henvere givmi monudune. Ga ravveuw gafma odku cat neoh hig vod buj diw jiti lawolenif jiem bapasi iroram cotizape rafo. Fel meplakcu uke ki rutlosom di awubega ajresav be ucsetve cafugwa cidekoco nakto jiwe muuzika."
+  },
+  "apiKey": "d2aacb1f64e6062ba5237334dd6f5dc6cf88e83021bf5c59fbd9863fc3808d81",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
