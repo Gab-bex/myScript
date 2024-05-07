@@ -1,0 +1,26 @@
+{
+  "name": "Roger Haynes",
+  "age": 65,
+  "address": {
+    "street": "Wesa Grove",
+    "city": "Docecuw",
+    "state": "AZ",
+    "zip": "30004"
+  },
+  "contact": {
+    "phone": "(709) 363-2849",
+    "servicePhone": "800815443"
+  },
+  "birthday": "1983-08-16T09:23:00.292Z",
+  "ip": "51.101.16.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Tougu feknu gijsa hip iffak zicfooro tezmuf si rejveg di nab dushina. Jerevfow cire loat anvi iv wevergem goc lereeda megvajes nitpof wecivak ato aca toba hiw kicufi cucegbe. Timteero cavte lob zid jazopbuj luhjikiwu zeufobim pagrotuf mo uchep alpu ataozdu felteze pu gupa banot goehipe hilip.",
+    "bio": "Pid ved pan vupapo lov fire nawwuoku ze jushareho luserul bulu hi ovfak arjagdu hashancid. Mojgemfip va mefu ewawe wep wa tacruheg mobaj fu baf benezi jo bazane uwdivec puud. De jusneb begahne besudwag perjunwu he nafvu sis hewajehed simsugkat acopulku seraj ti une akzupe."
+  },
+  "apiKey": "953769d506021b9a51280f3c435061ef872b71fefc952abc9322ea8ac1fa212c",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
