@@ -1,0 +1,26 @@
+{
+  "name": "Emily Watson",
+  "age": 61,
+  "address": {
+    "street": "Omgef Center",
+    "city": "Pumudfe",
+    "state": "MT",
+    "zip": "69132"
+  },
+  "contact": {
+    "phone": "(389) 996-6043",
+    "servicePhone": "800724736"
+  },
+  "birthday": "1980-01-31T09:42:20.041Z",
+  "ip": "199.205.79.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Sidgecu kaloob hace levonom lucud ki zofsifid gapo sogu ajmu asug vureha gow egu roewoci se zoba. Valvuwsu te olubu jeluoru fub ej dew cogluzrod hamharrel zokoru boade mufviap bogi cin jo. Meriwnu pajes tuci niv zihobitaz ze biles ba ric ine kopmozuf zogva tifcaj voz nejzuko tec ivbi.",
+    "bio": "Metbindo beklad kaztas natupra asisecas ho vo volneze ac tatvewwer gij fiwtic toem fac pewoto co depirah ca. Azijeg vot rohfaz wu bopsepim teboher jo heklob buwenom sivdil hi tusbi luvmeke depuv luvetu pekuew. Ro banzenwaj zor mopuv penleatu hanvo idno tat gum sevaheb ka pezesso igibak."
+  },
+  "apiKey": "c73abf8a08b403020d1fc05a114477517aa97dcf1dd7edf7db04cf8869c73119",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
