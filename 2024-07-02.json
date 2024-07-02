@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Garza",
+  "age": 49,
+  "address": {
+    "street": "Faruvo Highway",
+    "city": "Toctize",
+    "state": "NE",
+    "zip": "01822"
+  },
+  "contact": {
+    "phone": "(429) 918-6545",
+    "servicePhone": "800644286"
+  },
+  "birthday": "2004-12-01T09:49:22.882Z",
+  "ip": "85.56.178.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Sanbehwo vipkoh ibi hehad inwuket owabijiti ha le ilu efbubuj wuihu juja ohejadza. Sudpeb alubote el ki ahooseiji tajol efogadkun huzavjef ije huvgip ko rurmodi nuzev aduohe so repdon co muco. Wakab fiwajad ema juvpeti owufenis comeubu do vu ib jose ame ri egiziwjeh tosihe nihjiz wulteegi opaim.",
+    "bio": "Tehbeup bu pilnuh volsouz ge arowucu ke zi guaguce la ojruwsec caj munco ga. Solajinar fu iznig rit wij liwos lellokpi opicub sovfa etabuaj wes juhe adigite lifraba. Zu le eh vez pugvimad ocrajec lu zo fa bo efcezi uwite. Beaw pah hukiso zizahud je ri idivuwub amu fiwjubnat dacarcel fe rasenak jaspo hadkujlis vosbat isnifra."
+  },
+  "apiKey": "ebc944d8836a70d56e0954c3799e285cf3b735bd7594db9eeed52e2c4717534e",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
