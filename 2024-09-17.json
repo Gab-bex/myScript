@@ -1,0 +1,26 @@
+{
+  "name": "Nell Hines",
+  "age": 42,
+  "address": {
+    "street": "Ipalo Point",
+    "city": "Fepheoma",
+    "state": "CO",
+    "zip": "04764"
+  },
+  "contact": {
+    "phone": "(935) 546-3256",
+    "servicePhone": "800999182"
+  },
+  "birthday": "1962-07-03T10:54:11.626Z",
+  "ip": "117.56.8.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Cainalu cahfo siz da em so lewofap gaswi rizsakeg niwikked fozseme asonofu pi raahka. Ota wenafsam duzna wev iwheb jemhu ragaho voehi hu acolefo da fov nomdu popsieb ik. Hu zambaftuz eleju ziwovu heluz leogugi sasuken azurooza cu nete uvipoal ada tizup iwenolteh. Dil mej ejo iwooniz buvwu fi jahzek fefise ize gasro sazevviw ehu ta fis zo pajvefab vezfohi.",
+    "bio": "Vanuni cicicfe wodwu va rokip oda abogsig ju raoho hud ustufew hus gozi faw zic fez howu baz. Usiadva elucze jilreg wec gesil zog vopabsec ci do col koh ruphuguj elkoh hiflobri po ove lervu ze. Mita ejikuwe behi num kijjivpu ji zuiwla alamif de lewal icuuzu mic. Vizcop icofuwot ete jaje dokrora ropcone nupabgep ujeri ecijertab netparlat monsed lavaidi ran gazazoz nuvufhul in. Fo nuzohrej fuagu je jit uzafev eme ablar diivu tu dazhu ci tofvupud pin jaco."
+  },
+  "apiKey": "0c81ff465ec11b28697fac9353e0ccc6bd3fb94e959fd70f981c69b96d15e2ad",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
