@@ -1,0 +1,26 @@
+{
+  "name": "Leila Sutton",
+  "age": 55,
+  "address": {
+    "street": "Newoz Path",
+    "city": "Tangaan",
+    "state": "MT",
+    "zip": "60710"
+  },
+  "contact": {
+    "phone": "(214) 696-3575",
+    "servicePhone": "800567212"
+  },
+  "birthday": "1994-09-06T08:42:59.658Z",
+  "ip": "210.252.156.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Otu suwije fusoc va ozoogi zeimni na todul dasih ragsatmis mug rosu. Hav gemlu rukawhe zuhtajvus tewic vesev su jijoju idni ituv apkov folibala geuz epwapu uhupet av wup. Ceg pebahof ubzufo za esa wiirzi erdijju ka fistofe zecelu ujifen jug ibafe ij egtenes.",
+    "bio": "Gictostod ozupo okod gaiwna zez tono dapvuf mawruh bote fozamni ob luole vec vuejir tofigmu somob bur hogjid. Cezav ef galof kikeg cugcikmi ditwo viawa it dur ipe tev nidpeone. Raz fianoduz romodcid zu mugra ovu sosujrag sojen lun jutru zo dop jowaw gofikhe. Nici kegver irololu vopju ga nabukaelu joiliiz barah wu fupude bijgecur wircot ufouc anraduf vewvizuv kukraso."
+  },
+  "apiKey": "606df588df4bdbe7298ee63ba047f5c667f6d19c578780d8cdc1cb9997700569",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
