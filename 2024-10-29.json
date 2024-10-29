@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Santos",
+  "age": 40,
+  "address": {
+    "street": "Nerpav View",
+    "city": "Gugaka",
+    "state": "TX",
+    "zip": "83575"
+  },
+  "contact": {
+    "phone": "(676) 887-1391",
+    "servicePhone": "800458535"
+  },
+  "birthday": "1981-06-02T07:15:14.435Z",
+  "ip": "203.142.223.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Holasem lig uke gal das evro nisgolob hujugos tuku saemu cu cifcab ripi wiadaoci afir ema. Gosojum zobpib jarat hac muzah pi sippet bive udibe ru ru oruruwon eg emuku taf lotdueju. Vir pe me tiwlis bud pihor maj fic ohe lehe bar joub. Vaviri atocuh zora gaw tawakim tuf kuvgaof ganud gop cisorwev he natzutde la cahteged viluz jejhotcu wevlotku.",
+    "bio": "Nurke covpoebo of avu gisrukam henkom fe sauzotur hat ojaj tiwula igalumi ha cuadiraf bej jujziliv obbonu. Les nucido ih zi batiji surzad dimfen tokuwe fad zi ewa neebba tufsadrut awefemli. Rier okvulhik mit tit salnok vepeneb getadi bilihu cilaca riinuvi veffi ebi wuc dupuz emame li latitusu luwves. Gas jovduftum zel juniig voh bav lurij wara amha zewoturi wuhmu ucite mibe inu wap. Liro kuc efe numjoheg awjocje buomlil emuavo bilhi sigezez revbaztuj erijroj rez ti oziul."
+  },
+  "apiKey": "693b6d51d083e932ed0f9a80470a822cc3693f1d5d757b590d3b5cfa67cffc83",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
