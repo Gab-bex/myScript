@@ -1,0 +1,25 @@
+{
+    "name": "Joel Rose",
+    "age": 2,
+    "address": {
+        "street": "Mccarty Hollow",
+        "city": "Jenniferside",
+        "state": "Florida",
+        "zip": "23059"
+    },
+    "contact": {
+        "phone": "8644170522",
+        "servicePhone": "800516352"
+    },
+    "birthday": "2023-24-10",
+    "ip": "169.155.66.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish network try accept. Record push I ask fear.\nThis popular arrive candidate daughter hospital camera. Let often majority analysis still though. Evening song pattern direction challenge.",
+        "bio": "Method lay real court military agent third.\nHope recent assume. Science actually decide career once three."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
