@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Stewart",
+    "age": 16,
+    "address": {
+        "street": "Sean Unions",
+        "city": "South Cristinamouth",
+        "state": "Arkansas",
+        "zip": "83711"
+    },
+    "contact": {
+        "phone": "001-204-800-8197x03695",
+        "servicePhone": "800858930"
+    },
+    "birthday": "2009-04-09",
+    "ip": "29.39.149.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Question himself road sure keep red forward. Black listen if piece their fall.\nLocal fast street care. Check report finish blood turn.",
+        "bio": "Ground too section past think.\nRecently at place look. Affect community design prove. Improve majority simply produce stay Republican red each."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
