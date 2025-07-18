@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Moore",
+    "age": 52,
+    "address": {
+        "street": "Davidson Dam",
+        "city": "East Michaelmouth",
+        "state": "Iowa",
+        "zip": "80165"
+    },
+    "contact": {
+        "phone": "001-857-605-4753",
+        "servicePhone": "800293307"
+    },
+    "birthday": "1973-30-05",
+    "ip": "162.196.50.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Single another peace training himself security again. Town eat room generation few religious almost.",
+        "bio": "Share issue science site reach include. Economic teacher population threat moment hour true. Television town party investment."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
