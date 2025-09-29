@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Brewer",
+    "age": 57,
+    "address": {
+        "street": "Tina Wall",
+        "city": "Santosland",
+        "state": "Hawaii",
+        "zip": "03733"
+    },
+    "contact": {
+        "phone": "913-960-4121x511",
+        "servicePhone": "800721338"
+    },
+    "birthday": "1968-30-05",
+    "ip": "183.1.146.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Give owner teacher statement social need soldier series. Training song never least collection city. Enter investment purpose under.",
+        "bio": "Address realize sea get find try evidence degree. Us federal view wear. Strategy sign save forward wall figure into.\nMove run all medical develop claim."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

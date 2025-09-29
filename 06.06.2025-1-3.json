@@ -1,0 +1,25 @@
+{
+    "name": "Michael Burns",
+    "age": 50,
+    "address": {
+        "street": "Karen Prairie",
+        "city": "Wilsonfort",
+        "state": "Montana",
+        "zip": "79928"
+    },
+    "contact": {
+        "phone": "588-999-8082",
+        "servicePhone": "800828451"
+    },
+    "birthday": "1975-21-08",
+    "ip": "116.149.52.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult check president election left. Once no natural far. Join attention TV benefit soldier kitchen painting.\nWhy build community feel. Treatment anyone protect. Manage my ago.",
+        "bio": "Population art mother prevent. Federal serious result along. Deal hundred all.\nMind structure bad. Election bill major central door talk character.\nOil will my allow nearly name."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
