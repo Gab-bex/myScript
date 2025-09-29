@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Miller",
+    "age": 16,
+    "address": {
+        "street": "Bobby Burgs",
+        "city": "North Julieburgh",
+        "state": "West Virginia",
+        "zip": "86261"
+    },
+    "contact": {
+        "phone": "001-429-265-0088x647",
+        "servicePhone": "800422469"
+    },
+    "birthday": "2009-20-02",
+    "ip": "176.87.79.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Write indicate town enter fire network.\nSomebody decide tonight bank.\nSocial street listen. Religious environment attack theory. Determine war occur knowledge possible imagine.",
+        "bio": "Or point trouble summer add able. Song edge about near. Pm view work light wonder machine cause.\nWait central participant ground room high late. Play result everybody building type leave case."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

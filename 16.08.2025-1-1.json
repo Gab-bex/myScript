@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Beasley",
+    "age": 17,
+    "address": {
+        "street": "Atkins Grove",
+        "city": "Ramseyton",
+        "state": "Minnesota",
+        "zip": "50311"
+    },
+    "contact": {
+        "phone": "842-853-3548x5778",
+        "servicePhone": "800219514"
+    },
+    "birthday": "2008-22-02",
+    "ip": "119.167.65.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth hundred three room. Meet whole painting official human.\nMoment let region north who allow after. Whether amount number magazine whole.",
+        "bio": "Condition real PM deal region large. Way source show compare month reality.\nWithout represent material ready. Travel as network dog many military herself. Individual baby everyone power land."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
