@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Bryan",
+    "age": 69,
+    "address": {
+        "street": "Michelle Orchard",
+        "city": "Dorothyhaven",
+        "state": "South Carolina",
+        "zip": "42190"
+    },
+    "contact": {
+        "phone": "(678)539-2130",
+        "servicePhone": "800922527"
+    },
+    "birthday": "1956-15-04",
+    "ip": "194.19.26.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose six rule avoid. Manager lead particular sound. Cover team fear require goal sell improve.",
+        "bio": "Claim understand since under product step myself. Simple future alone positive morning.\nOff box she without country. Music professor last role act determine me."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

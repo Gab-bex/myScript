@@ -1,0 +1,25 @@
+{
+    "name": "Kari Lopez MD",
+    "age": 42,
+    "address": {
+        "street": "Hampton Neck",
+        "city": "Port Angelica",
+        "state": "Florida",
+        "zip": "71942"
+    },
+    "contact": {
+        "phone": "611-911-0884",
+        "servicePhone": "800589735"
+    },
+    "birthday": "1983-06-06",
+    "ip": "160.252.6.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Need wish trouble exactly kitchen yes reflect he. Across force upon range write event.\nWatch success carry such. Leg difference over north particularly.\nSpeech recently site other rate system.",
+        "bio": "Involve body letter loss. Respond continue technology hair add argue agent. Rather nation best beyond management. Commercial force provide together."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

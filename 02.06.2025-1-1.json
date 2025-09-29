@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Moss",
+    "age": 13,
+    "address": {
+        "street": "Boyd Radial",
+        "city": "Rachelfort",
+        "state": "Florida",
+        "zip": "80544"
+    },
+    "contact": {
+        "phone": "+1-913-245-9184",
+        "servicePhone": "800525879"
+    },
+    "birthday": "2012-23-09",
+    "ip": "187.129.202.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Television education seven individual. Others none list. Network walk modern community.",
+        "bio": "Stand summer pass national message. Shake kind rate reality name usually sometimes pull.\nAfter peace difference become financial usually power. Mention night chair clearly stuff hand."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
