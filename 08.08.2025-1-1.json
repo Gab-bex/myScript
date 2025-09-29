@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Garrett",
+    "age": 74,
+    "address": {
+        "street": "Weaver Lock",
+        "city": "Port Caitlin",
+        "state": "Georgia",
+        "zip": "71114"
+    },
+    "contact": {
+        "phone": "252.884.9372x20696",
+        "servicePhone": "800631084"
+    },
+    "birthday": "1951-07-03",
+    "ip": "181.33.96.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Student without central relationship team same source. Against right gas product north future key attack. Society seat hospital total home enjoy.",
+        "bio": "Act against tell carry. Manager group resource.\nChurch business knowledge future day. Top course positive draw. Someone trial check nature green man."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
