@@ -1,0 +1,25 @@
+{
+    "name": "Beverly Hall",
+    "age": 49,
+    "address": {
+        "street": "Jimenez Estate",
+        "city": "Joneshaven",
+        "state": "Colorado",
+        "zip": "29109"
+    },
+    "contact": {
+        "phone": "(539)320-7784",
+        "servicePhone": "800451009"
+    },
+    "birthday": "1976-23-04",
+    "ip": "140.173.64.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Go talk move easy. Kind expect upon control very art view.\nSouth morning avoid security. Weight financial society trouble movie visit kitchen.",
+        "bio": "Stage hear person successful month happy. Tend everything itself record home woman may. Point animal meeting close somebody think late."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Nicholson",
+    "age": 67,
+    "address": {
+        "street": "Robert Rapid",
+        "city": "Edwardburgh",
+        "state": "Wyoming",
+        "zip": "44175"
+    },
+    "contact": {
+        "phone": "385-662-3166",
+        "servicePhone": "800597411"
+    },
+    "birthday": "1958-11-11",
+    "ip": "45.8.240.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic above PM thousand. Whose use perhaps budget its camera. Strong blood certainly class manager put.",
+        "bio": "Range thus program. Message again his risk run building.\nSuch physical people stand let feel market ago. Over environmental law. Science to lead management author fly."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
