@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Jones",
+    "age": 8,
+    "address": {
+        "street": "Richard Plains",
+        "city": "Port Timothy",
+        "state": "Alaska",
+        "zip": "80978"
+    },
+    "contact": {
+        "phone": "+1-979-656-4314x112",
+        "servicePhone": "800160918"
+    },
+    "birthday": "2017-26-09",
+    "ip": "98.45.102.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Budget who determine measure white seat. Cut wear everything against the back. Within push wait sister.\nConsumer market discover finish success several. Book itself table ever father.",
+        "bio": "Forget including rule get create within back. Bad treat down develop.\nPicture nice serious include. Data analysis special dream weight citizen. Southern language note."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
